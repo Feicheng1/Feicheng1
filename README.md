@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+2025.2.25
+从今天开始准备复试，计划一个月的时间完成一个项目。
+项目暂定为magiceden NFT自动监听挂bid，刷分
+
+第一天：
 1.pycharm environment 
 
 
