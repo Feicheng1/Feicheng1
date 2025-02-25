@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1.pycharm environment 
+
+
+billbill watch 
+
+
+2.how to pip for python?
+
+billbill watch
+
